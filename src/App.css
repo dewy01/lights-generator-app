@@ -1,5 +1,13 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  padding: 70px 70px;
+}
+
+.nav{
+  display: flex;
+  gap: 73px;
+}
+
+.counter{
+
 }
