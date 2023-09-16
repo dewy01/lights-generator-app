@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.wrapper nav svg {
+    margin-right: 6px;
+}
