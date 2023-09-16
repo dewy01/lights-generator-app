@@ -6,4 +6,5 @@
 .nav{
   display: flex;
   gap: 73px;
+  margin-bottom: 50px;
 }
